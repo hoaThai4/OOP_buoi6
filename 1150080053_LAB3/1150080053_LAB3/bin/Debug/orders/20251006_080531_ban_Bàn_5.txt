@@ -1,0 +1,10 @@
+﻿QUÁN ĂN NHANH HƯNG THỊNH
+Bàn: Bàn 5
+Thời gian: 06/10/2025 08:05:31
+----------------------------------------
+Cơm chiên trứng           x  1
+Bánh mì ốp la             x  1
+Coca                      x  1
+Lipton                    x  1
+----------------------------------------
+Ghi chú: File sinh tự động từ PDA (WinForms).

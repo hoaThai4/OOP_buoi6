@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|c:\\users\\lth\\documents\\oop_buoi6\\1150080053_lab3\\1150080053_lab3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|solutionrelative:1150080053_lab3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|c:\\users\\lth\\documents\\oop_buoi6\\1150080053_lab3\\1150080053_lab3\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|solutionrelative:1150080053_lab3\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|c:\\users\\lth\\documents\\oop_buoi6\\1150080053_lab3\\1150080053_lab3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|solutionrelative:1150080053_lab3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|c:\\users\\lth\\documents\\oop_buoi6\\1150080053_lab3\\1150080053_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|solutionrelative:1150080053_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|c:\\users\\lth\\documents\\oop_buoi6\\1150080053_lab3\\1150080053_lab3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0524FF69-F5C8-4812-8C20-3711863ED309}|1150080053_LAB3\\1150080053_LAB3.csproj|solutionrelative:1150080053_lab3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "1150080053_LAB3\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.Designer.cs*",
+              "RelativeToolTip": "1150080053_LAB3\\Form3.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:39:53.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.cs",
+              "RelativeDocumentMoniker": "1150080053_LAB3\\Form3.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.cs*",
+              "RelativeToolTip": "1150080053_LAB3\\Form3.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:39:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.cs",
+              "RelativeDocumentMoniker": "1150080053_LAB3\\Form3.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Form3.cs [Design]*",
+              "RelativeToolTip": "1150080053_LAB3\\Form3.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:39:12.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Program.cs",
+              "RelativeDocumentMoniker": "1150080053_LAB3\\Program.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\Program.cs*",
+              "RelativeToolTip": "1150080053_LAB3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:38:12.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\App.config",
+              "RelativeDocumentMoniker": "1150080053_LAB3\\App.config",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\OOP_Buoi6\\1150080053_LAB3\\1150080053_LAB3\\App.config",
+              "RelativeToolTip": "1150080053_LAB3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-06T01:08:20.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
